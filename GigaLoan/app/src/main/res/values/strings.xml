@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GigALoan</string>
+    <string name="login_text">LogIn</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="logint_bttn_text">Login</string>
+    <string name="register_bttn_text">Register!</string>
+    <string name="Client_ck_box_text">Client</string>
+    <string name="UserType_Message_text">What Type of user are you????</string>
+    <string name="no_rbttn">N</string>
+    <string name="Continue_bttn_text">Continue</string>
+    <string name="personla_info">Personal Information</string>
+    <string name="fname">First Name</string>
+    <string name="list_skills_text">List your skills</string>
+    <string name="Student_Registration_text">Student Registration</string>
+    <string name="continue_bttn">Continue</string>
+    <string name="reg_bday_txt">Date of birth </string>
+    <string name="main_filter_spinnet_text"/>
+    <string name="main_profile_bttn">Profile</string>
+    <string name="main_filter_bttn_text">Gig Filter</string>
+    <string name="main_notificaion_bttn_txt">Notification</string>
+    <string name="student_reg_college_txt">College</string>
+    <string name="reg_page1_email_text">Email</string>
+    <string name="reg_pag1_cont_client_bttn_text">Client</string>
+    <string name="reg_pag1_cont_student_bttn_text">Student</string>
+    <string name="reg_page1_ln_txt">Last Name</string>
+    <string name="client_main_page_create_bttn">Create Gig</string>
+    <string name="client_main_profile_bttn">Profile</string>
+    <string name="client_main_alert_bttn">Alerts</string>
+
+</resources>
